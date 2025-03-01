@@ -13,12 +13,12 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**
    ```sh
-   git clone <GitLab_URL>
+   git clone https://github.com/Manu43236/img_loader_task.git
    ```
 
 2. **Navigate to the project folder**
    ```sh
-   cd <project_folder>
+   cd img_loader_task
    ```
 
 3. **Install dependencies**
